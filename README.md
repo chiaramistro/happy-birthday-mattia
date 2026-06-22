@@ -35,7 +35,6 @@ Tutti i testi e i contenuti "narrativi" sono in **`src/data/`**, separati dal co
 ### Aggiungere le foto vere
 
 Per impostazione predefinita ogni foto nella timeline è un placeholder ("Aggiungi una foto qui"), così puoi pubblicare il sito anche prima di avere tutte le immagini pronte.
-
 Per inserire una foto vera:
 
 1. Copia il file immagine in `src/assets/photos/` (es. `src/assets/photos/da-piccolo.jpg`).
