@@ -28,7 +28,7 @@ jobs:
           cache: npm
 
       - name: Installa le dipendenze
-        run: npm ci
+        run: npm i
 
       - name: Build del sito
         # Calcola automaticamente la base path corretta:
