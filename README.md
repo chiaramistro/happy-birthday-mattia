@@ -49,7 +49,7 @@ Le foto vengono mostrate automaticamente con cornice rossa, ombra ed effetto "fo
 
 ---
 
-## 5. Struttura del progetto
+## 4. Struttura del progetto
 
 ```
 src/
@@ -65,7 +65,7 @@ src/
 
 ---
 
-## 8. Crediti tecnici
+## 5. Crediti tecnici
 
 * [HeroUI](https://heroui.com/) — componenti UI (Button, Card, Progress, Tabs, Chip)
 * [Framer Motion](https://www.framer.com/motion/) — animazioni e transizioni
